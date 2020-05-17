@@ -17,7 +17,7 @@ Sudoku puzzle solver created with React
 - Managed to fiddle with view-height and max-width/height to get sizing down
 
 ### Day 3
-- Handle button and key board events 
+- Handled button and key board events 
 - Installed react-keyboard-event-handler
 - Highlighted grid cols and rows in focus
 - Added state variable to keep track of all Square values in Grid
@@ -29,8 +29,8 @@ Sudoku puzzle solver created with React
 - Completed backtracking search algorithm to solve puzzle
 
 ### Day 5
-- Fetch random sudoku puzzle from online API
-- Touch up aethestics
+- Fetched random sudoku puzzle from online API
+- Touched up aethestics  
 
 
 

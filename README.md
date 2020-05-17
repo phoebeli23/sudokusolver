@@ -3,7 +3,7 @@ Sudoku puzzle solver created with React
 
 ## Project Log
 
-### 5-12-20 Project Start 
+### Day 1
 - Read [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - Drew mockup
 - Determined component heirarchy

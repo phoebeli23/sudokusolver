@@ -1,19 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:300,500');
 
 html {
-  height: 100%;
   display: flex;
   justify-content: center;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url('https://i.pinimg.com/originals/6c/73/41/6c7341f8ceef532c3ecbb7420b6adeb3.jpg');
-  background-size: 1500px auto;
+  background-size: 1700px auto;
   background-attachment: fixed;
+  height: 110vh;
 }
 
 body {
   box-shadow: 0px 0px 30px 8px rgba(0,0,0,0.75);;
   width: 90%;
-  max-width: 650px;
+  height: 100vh;
+  max-width: 770px;
   color: white;
+  min-height: 100%;
 }
 
 .App {
@@ -28,7 +30,7 @@ h1 {
 }
 
 p {
-  font-size: 0.9em;
+  font-size: 1.1em;
 }
 
 .grid-area {
@@ -36,7 +38,7 @@ p {
   display: flex;
   justify-content: center;
   height: 65vw;
-  max-height: 440px;
+  max-height: 570px;
   min-height: 300px;
 }
 
@@ -45,6 +47,7 @@ p {
 }
 
 .button-bar button {
+  font-size: 0.9em;
   width: 9em;
   margin: 1em;
   padding: 0.8em 1em;

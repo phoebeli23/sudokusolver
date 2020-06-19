@@ -1,7 +1,12 @@
 # Sudoku Solver
-Sudoku puzzle solver created with React
+Online sudoku puzzle solver that also generates random puzzles. 
 
-## Project Log
+How to run locally:
+1. Clone this repo
+2. Run <code>npm install</code> to install dependencies
+3. Run <code>npm start</code> to generate the build files and launch the app  
+
+## Project Log [Mainly Personal Reference]
 
 ### Day 1
 - Read [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
@@ -31,9 +36,3 @@ Sudoku puzzle solver created with React
 ### Day 5
 - Fetched random sudoku puzzle from online API
 - Touched up aethestics  
-
-
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -4,7 +4,7 @@ Online sudoku puzzle solver that also generates random puzzles.
 How to run locally:
 1. Clone this repo
 2. Run <code>npm install</code> to install dependencies
-3. Run <code>npm start</code> to generate the build files and launch the app  
+3. Run <code>npm start</code> to launch the app  
 
 ## Project Log [Mainly Personal Reference]
 

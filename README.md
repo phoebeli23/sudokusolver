@@ -6,7 +6,9 @@ How to run locally:
 2. Run <code>npm install</code> to install dependencies
 3. Run <code>npm start</code> to launch the app  
 
-## Project Log [Mainly Personal Reference]
+
+
+## Project Log 
 
 ### Day 1
 - Read [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
